@@ -3,7 +3,7 @@
   "displayName": "excel-formula-formatter",
   "description": "VS Code extension to format, indent, and highlight Excel formulas",
   "icon": "./icons/excel-formula-icon.png",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "MiguelGaray",
   "license": "MIT",
   "keywords": [
